@@ -52,7 +52,7 @@ p {
 
 .resize {
     width: 100%;
-    height: ;
+    height: auto;
 }
 
 .hero {
