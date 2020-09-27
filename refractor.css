@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color:light grey;
+    background-color:#d9dcd6;
+    
+
 }
 
 .header {
@@ -51,11 +53,11 @@ p {
 }
 
 .resize {
-    max-width: 100%;
+    width: 100%;
     max-height: auto;
 }
 
-.hero {
+.hero {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
